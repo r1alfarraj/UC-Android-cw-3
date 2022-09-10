@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">day3</string>
+    <string name="welcome">الرجاء ادخال البيانات التاليه</string>
+    <string name="firstentry">الأسم</string>
+    <string name="secondentry">العمر</string>
+    <string name="buttony">التالي</string>
+    <string name="herearethey">بيانات العميل</string>
+    <string name="nn">الاسم</string>
+    <string name="TODO">العمر</string>
+
+
+</resources>
